@@ -1,2 +1,6 @@
 # hello-world
 just for study
+
+emmmmmm...because it's too boring,so i'd like to learn something about github...
+
+edit this just for study,i just follow the tutorial...
